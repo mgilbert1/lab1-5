@@ -1,3 +1,4 @@
 torch
-torchtext
+torchtext == 0.7
 matplotlib
+otter-grader == 1.0.0

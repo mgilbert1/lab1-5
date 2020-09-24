@@ -1,1 +1,1 @@
-test = {'name': 'model_reduces_loss', 'points': 1, 'suites': [{'cases': [], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
+test = {'name': 'model_reduces_loss', 'points': 1, 'suites': [{'cases': [{'code': '>>> loss > 0\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
